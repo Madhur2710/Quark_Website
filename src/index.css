@@ -1,2 +1,7 @@
 @import "tailwindcss";
 
+@font-face {
+    font-family: "Robot_Invaders";
+    src: url('./assets/Robot_Invaders.ttf');
+}
+
