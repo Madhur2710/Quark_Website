@@ -1,7 +1,10 @@
 @import "tailwindcss";
-
 @font-face {
-    font-family: "Robot_Invaders";
-    src: url('./assets/Robot_Invaders.ttf');
+    font-family: 'Robot_Invaders';
+    src: url('./assets/fonts/RobotInvaders.ttf') format('truetype');
 }
 
+.bg-custom {
+    background-image: url('./assets/Sponsor_bg.png');
+    background-size: cover;
+ }
