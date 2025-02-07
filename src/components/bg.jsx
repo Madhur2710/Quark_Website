@@ -2,7 +2,7 @@ import React from "react";
 import Quarklogo from "../assets/Quark_25_Logo-removebg-preview 1.svg"
 import glitch from "../assets/glitcheff (1) 1.svg"
 import Astronaut from "../assets/Astronaut.svg"
-import Background from "../assets/realbg.png"
+import Background from "../assets/DDD.png"
 
 export default function home(){
     return(
